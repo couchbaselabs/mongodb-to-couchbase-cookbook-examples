@@ -1,0 +1,24 @@
+{
+    "name": "mongoose-to-ottoman-example",
+    "version": "1.0.0",
+    "description": "A RESTful API example for Mongoose and Ottoman in a single format.",
+    "main": "app.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": ["mongoose", "ottoman", "mongodb", "couchbase", "mean", "cean"],
+    "author": {
+        "name": "Nic Raboy",
+        "url": "https://www.thepolyglotdeveloper.com"
+    },
+    "license": "ISC",
+    "dependencies": {
+        "body-parser": "^1.16.0",
+        "couchbase": "^2.3.0",
+        "express": "^4.14.1",
+        "minimist": "^1.2.0",
+        "mongodb": "^2.2.22",
+        "mongoose": "^4.8.0",
+        "ottoman": "^1.0.4"
+    }
+}
